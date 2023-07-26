@@ -1,0 +1,26 @@
+{
+  "kode": "5D2EC0HJWWSV",
+  "time": "2023-07-08 10:49:30",
+  "customer": {
+    "nama": "Bimo",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "0820172103124"
+  },
+  "items": [
+    {
+      "name": "Roti",
+      "price": 10000,
+      "count": 1
+    },
+    {
+      "name": "Kue",
+      "price": 15000,
+      "count": 1
+    },
+    {
+      "name": "Air Mineral",
+      "price": 5000,
+      "count": 4
+    }
+  ]
+}

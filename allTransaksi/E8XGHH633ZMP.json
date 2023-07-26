@@ -1,0 +1,26 @@
+{
+  "kode": "E8XGHH633ZMP",
+  "time": "2023-07-08 13:31:39",
+  "customer": {
+    "nama": "50000",
+    "email": "5000",
+    "nohp": "50000"
+  },
+  "items": [
+    {
+      "name": "Telur",
+      "price": 8000,
+      "count": 2
+    },
+    {
+      "name": "Cappucino",
+      "price": 15000,
+      "count": 1
+    },
+    {
+      "name": "Kue",
+      "price": 10000,
+      "count": 1
+    }
+  ]
+}

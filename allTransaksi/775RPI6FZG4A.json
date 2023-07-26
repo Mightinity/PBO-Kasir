@@ -1,0 +1,26 @@
+{
+  "kode": "775RPI6FZG4A",
+  "time": "2023-07-08 10:36:39",
+  "customer": {
+    "nama": "Bimo Yudistira",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "082170239463"
+  },
+  "items": [
+    {
+      "name": "Air Mineral",
+      "price": 5000,
+      "count": 2
+    },
+    {
+      "name": "Kue",
+      "price": 15000,
+      "count": 2
+    },
+    {
+      "name": "Roti",
+      "price": 10000,
+      "count": 2
+    }
+  ]
+}

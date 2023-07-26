@@ -1,0 +1,16 @@
+{
+  "kode": "1RZHOTQX83II",
+  "time": "2023-07-08 12:23:44",
+  "customer": {
+    "nama": "Bimo Yudistira",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "082170239463"
+  },
+  "items": [
+    {
+      "name": "Air Mineral",
+      "price": 3000,
+      "count": 4
+    }
+  ]
+}

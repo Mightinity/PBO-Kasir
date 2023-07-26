@@ -1,0 +1,36 @@
+{
+  "kode": "2LVBR45VO9SJ",
+  "time": "2023-07-08 13:47:41",
+  "customer": {
+    "nama": "Bimo Yudistira",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "082170239463"
+  },
+  "items": [
+    {
+      "name": "Air Mineral",
+      "price": 3000,
+      "count": 3
+    },
+    {
+      "name": "Kue",
+      "price": 10000,
+      "count": 2
+    },
+    {
+      "name": "Keripik",
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "name": "Cappucino",
+      "price": 15000,
+      "count": 1
+    },
+    {
+      "name": "Sprite",
+      "price": 5000,
+      "count": 1
+    }
+  ]
+}

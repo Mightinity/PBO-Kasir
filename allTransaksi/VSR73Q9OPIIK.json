@@ -1,0 +1,16 @@
+{
+  "kode": "VSR73Q9OPIIK",
+  "time": "2023-07-10 06:46:47",
+  "customer": {
+    "nama": "dr. Bimo",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "2389479273811234"
+  },
+  "items": [
+    {
+      "name": "Cappucino",
+      "price": 15000,
+      "count": 6
+    }
+  ]
+}

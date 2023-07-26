@@ -1,0 +1,16 @@
+{
+  "kode": "I0T7EU58PA0W",
+  "time": "2023-07-08 10:54:06",
+  "customer": {
+    "nama": "Bimo",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "0820172103124"
+  },
+  "items": [
+    {
+      "name": "Air Mineral",
+      "price": 5000,
+      "count": 3
+    }
+  ]
+}

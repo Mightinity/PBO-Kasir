@@ -1,0 +1,26 @@
+{
+  "kode": "TLZ3PE0B2IFI",
+  "time": "2023-07-10 06:50:30",
+  "customer": {
+    "nama": "dr. Bimo",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "2389479273811234"
+  },
+  "items": [
+    {
+      "name": "Cappucino",
+      "price": 15000,
+      "count": 2
+    },
+    {
+      "name": "Air Mineral",
+      "price": 3000,
+      "count": 2
+    },
+    {
+      "name": "Sprite",
+      "price": 5000,
+      "count": 2
+    }
+  ]
+}

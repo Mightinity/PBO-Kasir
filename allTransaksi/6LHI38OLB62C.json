@@ -1,0 +1,46 @@
+{
+  "kode": "6LHI38OLB62C",
+  "time": "2023-07-08 11:19:59",
+  "customer": {
+    "nama": "50000",
+    "email": "5000",
+    "nohp": "50000"
+  },
+  "items": [
+    {
+      "name": "Sprite",
+      "price": 5000,
+      "count": 1
+    },
+    {
+      "name": "Keripik",
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "name": "Mie Goreng",
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "name": "Telur",
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "name": "Kue",
+      "price": 10000,
+      "count": 1
+    },
+    {
+      "name": "Cappucino",
+      "price": 15000,
+      "count": 2
+    },
+    {
+      "name": "Cocal Cola",
+      "price": 5000,
+      "count": 1
+    }
+  ]
+}

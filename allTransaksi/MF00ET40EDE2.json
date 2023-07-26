@@ -1,0 +1,21 @@
+{
+  "kode": "MF00ET40EDE2",
+  "time": "2023-07-08 13:43:04",
+  "customer": {
+    "nama": "Bimo",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "0820172103124"
+  },
+  "items": [
+    {
+      "name": "Air Mineral",
+      "price": 3000,
+      "count": 3
+    },
+    {
+      "name": "Telur",
+      "price": 8000,
+      "count": 1
+    }
+  ]
+}
