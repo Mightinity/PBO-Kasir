@@ -1,0 +1,26 @@
+{
+  "kode": "TAUZFAI99Q14",
+  "time": "2023-07-26 21:20:29",
+  "customer": {
+    "nama": "Bimo",
+    "email": "yudistira.bimo1312@gmail.com",
+    "nohp": "0820172103124"
+  },
+  "items": [
+    {
+      "name": "Air Mineral",
+      "price": 3000,
+      "count": 2
+    },
+    {
+      "name": "Cappucino",
+      "price": 15000,
+      "count": 3
+    },
+    {
+      "name": "Sprite",
+      "price": 5000,
+      "count": 1
+    }
+  ]
+}
